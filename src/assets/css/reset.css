@@ -1,0 +1,38 @@
+*{
+	font:normal normal 12px "微软雅黑";
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+ body,h1,h2,h3,h4,h5,h6,p,dl,dd,dt,ol,li,ul,img
+ 
+{
+	margin: 0;
+	padding: 0;
+}
+h1,h2,h3,h4,h5{
+	font-weight: 600;
+}
+img{
+	display: block;
+}
+ul,li,ol{
+	list-style: none;
+	
+}
+a{
+	text-decoration: none;
+}
+input{
+	outline: none;
+	border: none;
+}
+button{
+	outline: none;
+	border: none;
+}
+.red{
+	font-size: 0.333333rem;
+	color: red;
+}
